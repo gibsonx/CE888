@@ -4,9 +4,7 @@ CE888_2021
 Catagory
 -----------
 Labs:
-  1. xxx
-  2. xxx
-  3. xxx
+  1. [Lab_1](https://github.com/gibsonx/CE888/blob/master/Lab_1/Exercise_Lab_1.ipynb)
 
 
 
