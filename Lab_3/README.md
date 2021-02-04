@@ -22,7 +22,7 @@
     * Get the values and run a classifier (with outcome `y_yes`)
     * Report the results of 10-Kfold stratified cross-validation
     * Get sample importances and a confusion matrix
-    
+
 - [ ] Make sure you save your changes in Github!
 
 
@@ -39,7 +39,7 @@ Input variables:
 6 - housing: has housing loan? (categorical: 'no','yes','unknown')
 7 - loan: has personal loan? (categorical: 'no','yes','unknown')
 # related with the last contact of the current campaign:
-8 - contact: contact communication type (categorical: 'cellular','telephone') 
+8 - contact: contact communication type (categorical: 'cellular','telephone')
 9 - month: last contact month of year (categorical: 'jan', 'feb', 'mar', ..., 'nov', 'dec')
 10 - day_of_week: last contact day of the week (categorical: 'mon','tue','wed','thu','fri')
 11 - duration: last contact duration, in seconds (numeric). Important note: this attribute highly affects the output target (e.g., if duration=0 then y='no'). Yet, the duration is not known before a call is performed. Also, after the end of the call y is obviously known. Thus, this input should only be included for benchmark purposes and should be discarded if the intention is to have a realistic predictive model.
@@ -50,8 +50,8 @@ Input variables:
 15 - poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 # social and economic context attributes
 16 - emp.var.rate: employment variation rate - quarterly indicator (numeric)
-17 - cons.price.idx: consumer price index - monthly indicator (numeric) 
-18 - cons.conf.idx: consumer confidence index - monthly indicator (numeric) 
+17 - cons.price.idx: consumer price index - monthly indicator (numeric)
+18 - cons.conf.idx: consumer confidence index - monthly indicator (numeric)
 19 - euribor3m: euribor 3 month rate - daily indicator (numeric)
 20 - nr.employed: number of employees - quarterly indicator (numeric)
 
