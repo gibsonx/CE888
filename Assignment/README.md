@@ -1,5 +1,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-To access assignment 1, Just open [sentiment_analysis_twitter.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb) in the colab and click "run all" with "GPU" ！！
+#To access assignment 2 (Final project)
+Just open [sentiment_analysis_twitter.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb) in the colab and click "run all" with "GPU" ！！
 
-The program will download datasets form https://github.com/cardiffnlp/tweeteval.git at the beginning. So far I haven't separated libs into independant .py files and will do it ASAP. Warning: sometimes GPU on Colab is out of service, it is impossible to run it with CPU due to RAM limitation of free edition. 
+Installation Script Description
+
+1. The program will download datasets form https://github.com/cardiffnlp/tweeteval.git 
+2. To maek the notebook tidy, I wrote two independent auxiliary lib files(CE888_Transformer.py and CustomizedPlots) for data normalization and building models. They will be downloaded and imported from https://github.com/gibsonx/grocery.git
+
+Warning: sometimes GPU on Colab is out of service, it is impossible to run it with CPU due to RAM limitation of free edition. 
+
+
+# To access assignment 1
+open [sentiment_analysis_twitter.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb) in the colab and click "run all" with "GPU"
+
+
