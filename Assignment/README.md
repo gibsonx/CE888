@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 ## To Access Assignment 2 (Final project)
-No additional step is needed for runnign it! just open [Assignment_2.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb) in the colab and click "run all" with "GPU".
+No additional step is needed for running it! just open [Assignment_2.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb) in the colab and click "run all" with "GPU".
 
 Installation Script Description:
 1. The program will download all datasets form https://github.com/cardiffnlp/tweeteval.git 
