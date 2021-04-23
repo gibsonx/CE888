@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
-## To Access Assignment 2 (Final project)
-No additional step is needed for running it! just open [Assignment_2.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb) in the colab and click "run all" with "GPU".
+## CE888 Assignment 2 (Final project)
+No additional step is needed for running Assignment 2! just open [Assignment_2.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb) in the colab and click "run all" with "GPU".
 
 Installation Script Description:
 1. The program will automatically download all datasets form https://github.com/cardiffnlp/tweeteval.git at the beginning.
@@ -10,7 +10,7 @@ Installation Script Description:
 Warning: sometimes GPU on Colab is out of service, it is impossible to run it with CPU due to RAM limitation of free edition. 
 
 
-## To Access Assignment 1
+## Assignment 2
 open [sentiment_analysis_twitter.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb) in the colab and click "run all" with "GPU"
 
 ## License
