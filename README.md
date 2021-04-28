@@ -12,8 +12,8 @@ Labs:
   6. [Lab_7](https://github.com/gibsonx/CE888/blob/master/Lab_7/)
   7. [Lab_8](https://github.com/gibsonx/CE888/blob/master/Lab_8/pre_trained.ipynb)
   8. [Lab_10](https://github.com/gibsonx/CE888/blob/master/Lab_10/)
-  9. [Assignment 1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)<br>
- 10.[Assignment 2](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
+  9. [Assignment 1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)
+  10. [Assignment 2](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
 
 
 Note: 
