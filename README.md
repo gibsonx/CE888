@@ -12,11 +12,13 @@ Labs:
   6. [Lab_7](https://github.com/gibsonx/CE888/blob/master/Lab_7/)
   7. [Lab_8](https://github.com/gibsonx/CE888/blob/master/Lab_8/pre_trained.ipynb)
   8. [Lab_10](https://github.com/gibsonx/CE888/blob/master/Lab_10/)
-  9. [Assignment1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)
+  9. [Assignment1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)                                                                       
   10.[Assignment2](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
 
 
-Note: There are three excerises in [Lab_7](https://github.com/gibsonx/CE888/blob/master/Lab_7/), and I did two excerises in the same file for [Lab_8](https://github.com/gibsonx/CE888/blob/master/Lab_8/pre_trained.ipynb).
+Note: 
+-----------
+There are three excerises in [Lab_7](https://github.com/gibsonx/CE888/blob/master/Lab_7/), and I did two excerises in the same file for [Lab_8](https://github.com/gibsonx/CE888/blob/master/Lab_8/pre_trained.ipynb).
 
 As to Lab10, Repository link is here: [https://github.com/gibsonx/heroku.git](https://github.com/gibsonx/heroku.git)
 
