@@ -1,9 +1,8 @@
 CE888_2021
 =======
 
-Catagory
------------
 Labs:
+-----------
   1. [Lab_1](https://github.com/gibsonx/CE888/blob/master/Lab_1/Exercise_Lab_1.ipynb)<br>
   2. [Lab_2](https://github.com/gibsonx/CE888/blob/master/Lab_2/bootstrap.ipynb)<br>
   3. [Lab_3](https://github.com/gibsonx/CE888/blob/master/Lab_3/bank_classification.ipynb)
@@ -13,8 +12,11 @@ Labs:
   7. [Lab_8](https://github.com/gibsonx/CE888/blob/master/Lab_8/pre_trained.ipynb)
   8. [Lab_9](https://github.com/gibsonx/CE888/blob/master/Lab_9/)
   9. [Lab_10](https://github.com/gibsonx/CE888/blob/master/Lab_10/)
-  10. [Assignment 1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)
-  11. [Assignment 2](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
+
+Assignments:
+----------- 
+  11. [Assignment 1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)
+  12. [Assignment 2](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
 
 
 Note: 
