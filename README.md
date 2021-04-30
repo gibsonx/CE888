@@ -15,8 +15,8 @@ Labs:
 
 Assignments:
 ----------- 
-  11. [Assignment 1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)
-  12. [Assignment 2](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
+  1. [Assignment 1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)
+  2. [Assignment 2](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
 
 
 Note: 
