@@ -9,7 +9,7 @@ No additional step is needed for running Assignment 2! just open [Assignment_2.i
 Warning: sometimes GPU on Colab is out of service, it is impossible to run it with CPU due to RAM limitation of free edition. 
 
 
-## Assignment 2
+## Assignment 1
 open [sentiment_analysis_twitter.ipynb](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb) in the colab and click "run all" with "GPU"
 
 ## License
