@@ -20,7 +20,7 @@ Assignments:
 
 Federated Learning:
 ----------- 
-1. [Federated Learning With MNIST Data] https://github.com/gibsonx/CE888/blob/master/federated_learning_for_image_classification.ipynb
+1. [Federated Learning With MNIST Data](https://github.com/gibsonx/CE888/blob/master/federated_learning_for_image_classification.ipynb)
 
 Note: 
 -----------
