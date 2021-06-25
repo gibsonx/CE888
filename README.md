@@ -15,8 +15,11 @@ Labs:
 
 Assignments:
 ----------- 
-  1. [Assignment 1](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)
-  2. [Assignment 2](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
+  1. [BERT Text Classification](https://github.com/gibsonx/CE888/blob/master/Assignment/sentiment_analysis_twitter.ipynb)
+  2. [DistilBERT & XLNet Text Classification](https://github.com/gibsonx/CE888/blob/master/Assignment/Assignment_2.ipynb)
+
+Federated Learning:
+----------- 
 
 
 Note: 
