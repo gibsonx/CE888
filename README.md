@@ -27,7 +27,7 @@ Note:
 There are three excerises in [Lab_7](https://github.com/gibsonx/CE888/blob/master/Lab_7/), and I did two excerises in the same file for [Lab_8](https://github.com/gibsonx/CE888/blob/master/Lab_8/pre_trained.ipynb).
 
 As to Lab10, Repository link is here: [https://github.com/gibsonx/heroku.git](https://github.com/gibsonx/heroku.git)
-
+Demo Link: [https://ce888.herokuapp.com](https://ce888.herokuapp.com/)
 
 Xue, Yuanfeng
 Email: yx20778@essex.ac.uk
